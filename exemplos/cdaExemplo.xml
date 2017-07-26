@@ -1,0 +1,71 @@
+<cda xmlns="http://www.sefa.pa.gov.br/cda_v1.00.xsd">
+  <numeroCda>0020175700047627</numeroCda>
+  <codImposto>126</codImposto>
+  <descImposto>DIVIDA ATIVA ICMS</descImposto>
+  <dataInscricao>2017-05-08</dataInscricao>
+  <numeroLivro>100</numeroLivro>
+  <numeroFolha>1</numeroFolha>
+  <procSefa>0420166903082686</procSefa>
+  <razaoSocial>CERPA CERVEJARIA PARAENSE SA</razaoSocial>
+  <tituloEstabelecimento>CERPA CERVEJARIA PARAENSE SA</tituloEstabelecimento>
+  <codCircunscricao>18</codCircunscricao>
+  <circunscricao>CEEAT GRANDES CONTRIBUINTES</circunscricao>
+  <inscricaoEstadual>150004753</inscricaoEstadual>
+  <tipoIdent>2</tipoIdent>
+  <cnpjCpf>04894085000150</cnpjCpf>
+  <codAtividade>1113502</codAtividade>
+  <atividade>Fabricac?o de cervejas e chopes</atividade>
+  <endereco>ROD ARTHUR BERNARDES, 7699</endereco>
+  <bairro>TAPANA (ICOARACI)</bairro>
+  <codMunicipio>1501402</codMunicipio>
+  <municipio>BELEM</municipio>
+  <uf>PA</uf>
+  <cep>66825000</cep>
+  <foneFax>9132167272</foneFax>
+  <responsaveis>
+    <responsavel>
+      <nome>JORGE LUIZ PEREIRA DA SILVA LIMA JORGE LUIZ PEREIRA DA SILVA</nome>
+      <codQualificacao>9</codQualificacao>
+      <qualificacao>DIRETOR</qualificacao>
+      <tipoIdent>1</tipoIdent>
+      <cnpjCpf>40340678704</cnpjCpf>
+      <endereco>ROD ARTHUR BERNARDES, 7699 BELEM-PA</endereco>
+    </responsavel>
+    <responsavel>
+      <nome>HELGA IRMENGARD JUTTA SEIBEL</nome>
+      <codQualificacao>17</codQualificacao>
+      <qualificacao>PRESIDENTE</qualificacao>
+      <tipoIdent>1</tipoIdent>
+      <cnpjCpf>51614839204</cnpjCpf>
+      <endereco>ROD ARTHUR BERNARDES, 7699 BELEM-PA</endereco>
+    </responsavel>
+    <responsavel>
+      <nome>KONRAD FRANZ SEIBEL</nome>
+      <codQualificacao>20</codQualificacao>
+      <qualificacao>ADMINISTRADOR</qualificacao>
+      <tipoIdent>1</tipoIdent>
+      <cnpjCpf>53061489215</cnpjCpf>
+      <endereco>OTR ARTUR BERNARDES, 7699 BELEM-PA</endereco>
+    </responsavel>
+  </responsaveis>
+  <origemDivida>DIEF No.: 42016690308268-6</origemDivida>
+  <tipoTributo>ICMS NORMAL</tipoTributo>
+  <fundamento>Art. 12 e 15 c/c Art. 52 da Lei No. 6182/98.</fundamento>
+  <periodoReferencia>201610</periodoReferencia>
+  <periodoAtual>2016-11-10</periodoAtual>
+  <periodoJuros>2016-11-10</periodoJuros>
+  <valorOriginal>9118674.53</valorOriginal>
+  <valorPrincipalIndice>2862353.86</valorPrincipalIndice>
+  <valorPrincipalMoeda>9263722.03</valorPrincipalMoeda>
+  <valorMultaIndice>512361.34</valorMultaIndice>
+  <valorMultaMoeda>1658206.24</valorMultaMoeda>
+  <valorJurosIndice>200364.77</valorJurosIndice>
+  <valorJurosMoeda>648460.54</valorJurosMoeda>
+  <valorTotalIndice>3575079.97</valorTotalIndice>
+  <valorTotalMoeda>11570388.81</valorTotalMoeda>
+  <valorExtenso>onze milh?es e quinhentos e setenta mil e trezentos e oitenta e oito reais e oitenta e um centavos</valorExtenso>
+  <texto>Cumprindo determinac?o legal, procedi a apurac?o e a inscric?o do credito acima discriminado na Divida Ativa da Fazenda Publica Estadual, mediante a emiss?o do presente Termo de Inscric?o, com fundamento no art. 39 da Lei n? 4.320, de 17 de marco de 1964, com redac?o dada pelo art. 1? do Decreto-lei n.? 1.735 de 20 de dezembro de 1979, na lei n.? 6.830, de 22 de setembro de 1980, no decreto n.? 3.942 de 20 de marco de 2000 e no Decreto n.? 5.204, de 18 de marco de 2002, sujeita a atualizac?o monetaria, juros e demais encargos previstos em lei ou contrato, a partir dos TERMOs iniciais especificados. E, para constar, firmo o presente, que vai devidamente datado e assinado pelo(a) Coordenador(a) de Controle da Divida Ativa e homologado pelo(a) Diretor(a) de Arrecadac?o e Informac?es Fazendarias da Secretaria Executiva da Fazenda.
+
+Belem, 21 de Julho de 2017.</texto>
+  <arquivo/>
+</cda>

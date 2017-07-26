@@ -1,0 +1,10 @@
+<TEnvio_PGE xmlns="http://www.sefa.pa.gov.br/cda_v1.00.xsd">
+  <evento>2</evento>
+  <numRemessa>1221</numRemessa>
+  <quantidadeCda>2</quantidadeCda>
+  <cdas>
+    <numeroCda>0020175700047627</numeroCda>
+    <numeroCda>0020175700057627</numeroCda>
+    
+  </cdas>
+</TEnvio_PGE>

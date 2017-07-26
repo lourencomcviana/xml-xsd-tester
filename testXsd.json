@@ -1,0 +1,18 @@
+[
+  {
+    "xml":"exemplos/envioEvento1.xml",
+    "xsd":"envio.xsd"
+  },
+  {
+    "xml":"exemplos/envioEvento2.xml",
+    "xsd":"envio.xsd"
+  },
+  {
+    "xml":"exemplos/cdaExemplo.xml",
+    "xsd":"cda.xsd"
+  },
+  {
+    "xml":"exemplos/cdaExemplo.xml",
+    "xsd":"envio.xsd"
+  }
+]

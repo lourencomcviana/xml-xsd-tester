@@ -1,0 +1,58 @@
+<xs:schema 
+    attributeFormDefault="unqualified" 
+    elementFormDefault="qualified" 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.00.xsd"
+    targetNamespace="http://www.sefa.pa.gov.br/cda_v1.00.xsd" 
+  >
+  <!--Caminho relativo do arquivo pode variar. Ideal hospedar na web-->
+  <xs:include schemaLocation="_cda.xsd"/>
+
+  <xs:element name="TEnvio_PGE">
+    <xs:complexType>
+      <xs:sequence>  
+
+        <xs:element name="evento">
+          <xs:simpleType>
+            <xs:restriction base="xs:unsignedInt">
+              <xs:minInclusive value="1"/>
+              <xs:maxInclusive value="999"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+
+        <xs:element name="numRemessa">
+          <xs:simpleType>
+            <xs:restriction base="xs:unsignedLong">
+              <xs:minInclusive value="1"/>
+              <xs:maxInclusive value="9999999999"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+
+        <xs:element name="quantidadeCda">
+          <xs:simpleType>
+            <xs:restriction base="xs:unsignedInt">
+              <xs:minInclusive value="1"/>
+              <xs:maxInclusive value="999999"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        
+        <xs:element name="cdas" >
+          <xs:complexType>
+            <xs:choice  minOccurs="1" >
+              <xs:sequence minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="cda" type="cda:cdaType" />
+              </xs:sequence>
+
+              <xs:sequence  minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="numeroCda" type="cda:numeroCdaType" />
+              </xs:sequence>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

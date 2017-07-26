@@ -1,0 +1,10 @@
+<xs:schema 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.00.xsd"
+  targetNamespace="http://www.sefa.pa.gov.br/cda_v1.00.xsd" 
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified" 
+  >
+    <xs:include schemaLocation="_cda.xsd"/>   
+    <xs:element name="cda" type="cda:cdaType"/>
+</xs:schema>
