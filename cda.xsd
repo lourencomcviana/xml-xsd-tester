@@ -5,6 +5,6 @@
   elementFormDefault="qualified"
   attributeFormDefault="unqualified" 
   >
-    <xs:include schemaLocation="_cda.xsd"/>   
+    <xs:include schemaLocation="_cda.xsd" />   
     <xs:element name="cda" type="cda:cdaType"/>
 </xs:schema>

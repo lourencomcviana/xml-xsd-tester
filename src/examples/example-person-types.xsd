@@ -1,0 +1,34 @@
+<xs:schema 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:exe="http://www.testXsd.com/example"
+  targetNamespace="http://www.testXsd.com/example" 
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified" 
+  >
+
+  <xs:simpleType name="ageType">
+    <xs:restriction base="xs:unsignedInt">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="150"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="personType">
+    <xs:sequence>  
+
+      <xs:element  name="name" type="xs:string"/>
+      
+      <xs:element name="age" type="exe:ageType"/>
+
+      <xs:element name="children" minOccurs="0" >
+        <xs:complexType>
+          <xs:sequence> 
+            <xs:element name="child" type="exe:personType"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:element name="person" type="exe:personType"/>
+</xs:schema>

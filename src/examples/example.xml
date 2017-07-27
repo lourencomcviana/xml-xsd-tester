@@ -1,0 +1,4 @@
+<person  xmlns="http://www.testXsd.com/example">
+  <name>adsdsa</name>
+  <age>12</age>
+</person>

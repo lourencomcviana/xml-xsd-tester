@@ -11,8 +11,13 @@
     "xml":"exemplos/cdaExemplo.xml",
     "xsd":"cda.xsd"
   },
+  
   {
-    "xml":"exemplos/cdaExemplo.xml",
-    "xsd":"envio.xsd"
+    "xml":"src/examples/example.xml",
+    "xsd":"src/examples/example-person-types.xsd"
+  },
+  {
+    "xml":"exemplos/cdaEmissao1.xml",
+    "xsd":"cda.xsd"
   }
 ]

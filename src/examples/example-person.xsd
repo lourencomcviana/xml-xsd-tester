@@ -1,0 +1,10 @@
+<xs:schema 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:exe="http://www.testXsd.com/example"
+  targetNamespace="http://www.testXsd.com/example" 
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified" 
+  >
+    <xs:include schemaLocation="example-person-types.xsd" />   
+    <xs:element name="person" type="exe:person"/>
+</xs:schema>

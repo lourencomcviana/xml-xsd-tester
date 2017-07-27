@@ -1,0 +1,55 @@
+<cda xmlns="http://www.sefa.pa.gov.br/cda_v1.00.xsd">
+  <numeroCda>0020125700103105</numeroCda>
+  <codImposto>126</codImposto>
+  <descImposto>DIVIDA ATIVA ICMS</descImposto>
+  <dataInscricao>2012-07-06</dataInscricao>
+  <numeroLivro>978</numeroLivro>
+  <numeroFolha>167</numeroFolha>
+  <procSefa>0420126901005588</procSefa>
+  <razaoSocial>G M DA ROCHA</razaoSocial>
+  <tituloEstabelecimento>G M DA ROCHA</tituloEstabelecimento>
+  <codCircunscricao>1</codCircunscricao>
+  <circunscricao>CERAT BELEM</circunscricao>
+  <inscricaoEstadual>150710526</inscricaoEstadual>
+  <tipoIdent>2</tipoIdent>
+  <cnpjCpf>05058623000139</cnpjCpf>
+  <codAtividade>4774100</codAtividade>
+  <atividade>Comercio varejista de artigos de optica</atividade>
+  <endereco>RUA TREZE DE MAIO, 278 - Referencia: ENTRE TV.P.EUTIQUIO ETV.C. SAL</endereco>
+  <bairro>CAMPINA</bairro>
+  <codMunicipio>1501402</codMunicipio>
+  <municipio>BELEM</municipio>
+  <uf>PA</uf>
+  <cep>66013080</cep>
+  <foneFax>912411314</foneFax>
+  <responsaveis>
+    <responsavel>
+      <nome>GERALDO MENDES DA ROCHA</nome>
+      <codQualificacao>12</codQualificacao>
+      <qualificacao>EMPRESARIO</qualificacao>
+      <tipoIdent>1</tipoIdent>
+      <cnpjCpf>04243579253</cnpjCpf>
+      <endereco>RUA DOS MUNDURUCUS, 2481 BELEM-PA</endereco>
+    </responsavel>
+  </responsaveis>
+  <origemDivida>DIEF No.: 42012690100558-8</origemDivida>
+  <tipoTributo>ICMS NORMAL</tipoTributo>
+  <fundamento>Art. 12 e 15 c/c Art. 52 da Lei No. 6182/98.</fundamento>
+  <periodoReferencia>201202</periodoReferencia>
+  <periodoAtual>2012-03-10</periodoAtual>
+  <periodoJuros>2012-03-10</periodoJuros>
+  <valorOriginal>2561.</valorOriginal>
+  <valorPrincipalIndice>1112.51</valorPrincipalIndice>
+  <valorPrincipalMoeda>2561.</valorPrincipalMoeda>
+  <valorMultaIndice>131.28</valorMultaIndice>
+  <valorMultaMoeda>302.21</valorMultaMoeda>
+  <valorJurosIndice>55.63</valorJurosIndice>
+  <valorJurosMoeda>128.06</valorJurosMoeda>
+  <valorTotalIndice>1299.42</valorTotalIndice>
+  <valorTotalMoeda>2991.27</valorTotalMoeda>
+  <valorExtenso>dois mil e novecentos e noventa e um reais e vinte e sete centavos</valorExtenso>
+  <texto>Cumprindo determinac?o legal, procedi a apurac?o e a inscric?o do credito acima discriminado na Divida Ativa da Fazenda Publica Estadual, mediante a emiss?o do presente Termo de Inscric?o, com fundamento no art. 39 da Lei n? 4.320, de 17 de marco de 1964, com redac?o dada pelo art. 1? do Decreto-lei n.? 1.735 de 20 de dezembro de 1979, na lei n.? 6.830, de 22 de setembro de 1980, no decreto n.? 3.942 de 20 de marco de 2000 e no Decreto n.? 5.204, de 18 de marco de 2002, sujeita a atualizac?o monetaria, juros e demais encargos previstos em lei ou contrato, a partir dos TERMOs iniciais especificados. E, para constar, firmo o presente, que vai devidamente datado e assinado pelo(a) Coordenador(a) de Controle da Divida Ativa e homologado pelo(a) Diretor(a) de Arrecadac?o e Informac?es Fazendarias da Secretaria Executiva da Fazenda.
+
+Belem, 27 de Julho de 2017.</texto>
+  <arquivo/>
+</cda>
