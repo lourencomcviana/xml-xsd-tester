@@ -1,6 +1,8 @@
 (function() {
   var main = require("./src/main");
 
+
+  console.log(process.argv[0]);
   console.log(process.argv[1]);
   main
     .readConfigFile(thisName()+'.json')

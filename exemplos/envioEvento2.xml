@@ -1,4 +1,4 @@
-<TEnvio_PGE xmlns="http://www.sefa.pa.gov.br/cda_v1.00.xsd">
+<TEnvio_PGE xmlns="http://www.sefa.pa.gov.br/cda_v1.01.xsd">
   <evento>2</evento>
   <numRemessa>1221</numRemessa>
   <quantidadeCda>2</quantidadeCda>

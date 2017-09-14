@@ -1,7 +1,7 @@
 <xs:schema 
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.00.xsd"
-  targetNamespace="http://www.sefa.pa.gov.br/cda_v1.00.xsd" 
+  xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.01.xsd"
+  targetNamespace="http://www.sefa.pa.gov.br/cda_v1.01.xsd" 
   elementFormDefault="qualified"
   attributeFormDefault="unqualified" 
   >
@@ -29,10 +29,8 @@
   </xs:group>
 
   <xs:simpleType name="decimalType">
-    <xs:restriction base="xs:decimal">
-      <xs:maxInclusive value="999999999999999"/>
-      <xs:fractionDigits value="2"/>
-      <xs:pattern value="\d{1,14}(\.\d{2})"/>
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{1,14}\.\d{2}"/>
     </xs:restriction>
   </xs:simpleType>
   
@@ -139,7 +137,7 @@
           </xs:simpleType>
         </xs:element>
 
-        <xs:element name="inscricaoEstadual">
+        <xs:element name="inscricaoEstadual" minOccurs="0">
           <xs:simpleType>
             <xs:restriction base="xs:unsignedLong">
               <xs:minInclusive value="100000000"/>
@@ -150,7 +148,7 @@
 
         <xs:group ref="cda:cpfCnpjGroup"/>
 
-        <xs:element name="codAtividade">
+        <xs:element name="codAtividade" minOccurs="0">
           <xs:simpleType>
             <xs:restriction base="xs:unsignedInt">
               <xs:minInclusive value="1"/>
@@ -159,7 +157,7 @@
           </xs:simpleType>
         </xs:element> 
 
-        <xs:element name="atividade">
+        <xs:element name="atividade" minOccurs="0">
           <xs:simpleType>
             <xs:restriction base="xs:string">
               <xs:minLength value="1"/>

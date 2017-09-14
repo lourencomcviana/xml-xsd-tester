@@ -2,8 +2,8 @@
     attributeFormDefault="unqualified" 
     elementFormDefault="qualified" 
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.00.xsd"
-    targetNamespace="http://www.sefa.pa.gov.br/cda_v1.00.xsd" 
+    xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.01.xsd"
+    targetNamespace="http://www.sefa.pa.gov.br/cda_v1.01.xsd" 
   >
   <!--Caminho relativo do arquivo pode variar. Ideal hospedar na web-->
   <xs:include schemaLocation="_cda.xsd"/>

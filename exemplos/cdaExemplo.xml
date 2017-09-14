@@ -1,4 +1,4 @@
-<cda xmlns="http://www.sefa.pa.gov.br/cda_v1.00.xsd">
+<cda xmlns="http://www.sefa.pa.gov.br/cda_v1.01.xsd">
   <numeroCda>0020175700047627</numeroCda>
   <codImposto>126</codImposto>
   <descImposto>DIVIDA ATIVA ICMS</descImposto>
@@ -59,7 +59,7 @@
   <valorPrincipalMoeda>9263722.03</valorPrincipalMoeda>
   <valorMultaIndice>512361.34</valorMultaIndice>
   <valorMultaMoeda>1658206.24</valorMultaMoeda>
-  <valorJurosIndice>200364.77</valorJurosIndice>
+  <valorJurosIndice>200364.00</valorJurosIndice>
   <valorJurosMoeda>648460.54</valorJurosMoeda>
   <valorTotalIndice>3575079.97</valorTotalIndice>
   <valorTotalMoeda>11570388.81</valorTotalMoeda>

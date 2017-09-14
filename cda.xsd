@@ -1,7 +1,7 @@
 <xs:schema 
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.00.xsd"
-  targetNamespace="http://www.sefa.pa.gov.br/cda_v1.00.xsd" 
+  xmlns:cda="http://www.sefa.pa.gov.br/cda_v1.01.xsd"
+  targetNamespace="http://www.sefa.pa.gov.br/cda_v1.01.xsd" 
   elementFormDefault="qualified"
   attributeFormDefault="unqualified" 
   >
