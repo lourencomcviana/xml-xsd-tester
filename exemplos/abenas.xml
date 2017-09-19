@@ -1,0 +1,74 @@
+<cda xmlns="http://www.sefa.pa.gov.br/cda_v1.01.xsd">
+  <numeroCda>0020175700024430</numeroCda>
+  <codImposto>126</codImposto>
+  <descImposto>DIVIDA ATIVA ICMS</descImposto>
+  <dataInscricao>2017-02-06</dataInscricao>
+  <numeroLivro>100</numeroLivro>
+  <numeroFolha>1</numeroFolha>
+  <procSefa>0420176900156503</procSefa>
+  <razaoSocial>UNIRIOS RODOFLUVIAL E LOGISTICA LTDA</razaoSocial>
+  <tituloEstabelecimento>UNIRIOS RODOFLUVIAL E COMERCIO LTDA</tituloEstabelecimento>
+  <codCircunscricao>4</codCircunscricao>
+  <circunscricao>CERAT SANTAREM</circunscricao>
+  <inscricaoEstadual>151790957</inscricaoEstadual>
+  <tipoIdent>2</tipoIdent>
+  <cnpjCpf>83346932000207</cnpjCpf>
+  <codAtividade>5021102</codAtividade>
+  <atividade>Transporte por navegac?o interior de carga, intermunicipal, interestadual e internacional, exceto travessia</atividade>
+  <endereco>TRV ARAGUARINA, 177, ARAGUARINA - Referencia: ARAGUARINA</endereco>
+  <bairro>PRAINHA</bairro>
+  <codMunicipio>1506807</codMunicipio>
+  <municipio>SANTAREM</municipio>
+  <uf>PA</uf>
+  <cep>68005200</cep>
+  <foneFax>9140088600</foneFax>
+  <responsaveis>
+    <responsavel>
+      <nome>CARMEN MARIA QUINCO MACIEL</nome>
+      <codQualificacao>2</codQualificacao>
+      <qualificacao>SOCIO</qualificacao>
+      <tipoIdent>1</tipoIdent>
+      <cnpjCpf>35791624204</cnpjCpf>
+      <endereco>AVE AV MAGALHAES BARATA, 1239, APTO B-APARECIDA/PA</endereco>
+    </responsavel>
+    <responsavel>
+      <nome>JOSE EDGAR SILVA QUINCO</nome>
+      <codQualificacao>56</codQualificacao>
+      <qualificacao>SOCIO-ADMINISTRADOR</qualificacao>
+      <tipoIdent>1</tipoIdent>
+      <cnpjCpf>14023199249</cnpjCpf>
+      <endereco>OTR OTR PASSAGEM DAS FLORES, 27, RES FE EM DEUS II-TENONE/PA</endereco>
+    </responsavel>
+  </responsaveis>
+  <origemDivida>DIEF No.: 0420176900156503</origemDivida>
+  <tipoTributo>DIVIDA ATIVA ICMS</tipoTributo>
+  <fundamento>ART 12 E 15 C/C ART. 52 DA LEI N? 6182/98.</fundamento>
+  <periodoAtual>2017-01-10</periodoAtual>
+  <periodoJuros>2017-01-10</periodoJuros>
+  <valorOriginal>28224.61</valorOriginal>
+  <valorPrincipalIndice>8720.99</valorPrincipalIndice>
+  <valorPrincipalMoeda>28224.61</valorPrincipalMoeda>
+  <valorMultaIndice>235.47</valorMultaIndice>
+  <valorMultaMoeda>762.08</valorMultaMoeda>
+  <valorJurosIndice>174.42</valorJurosIndice>
+  <valorJurosMoeda>564.49</valorJurosMoeda>
+  <valorTotalIndice>9130.88</valorTotalIndice>
+  <valorTotalMoeda>29551.18</valorTotalMoeda>
+  <valorExtenso>Vinte e Nove Mil e Quinhentos e Cinquenta e Um Reais e Dezoito Centavos</valorExtenso>
+  <texto>Cumprindo determinac?o legal, procedi a apurac?o e a inscric?o do credito
+acima discriminado na Divida Ativa da
+Fazenda Publica Estadual, mediante a emiss?o do presente Termo de
+Inscric?o, com fundamento no art. 39 da Lei n? 4.320, de 17 de marco
+de 1964, com redac?o dada pelo art. 1? do Decreto-lei n.? 1.735 de 20
+de dezembro de 1979, na lei n.? 6.830, de 22 de setembro de 1980, no
+decreto n.? 3.942 de 20 de marco de 2000 e no Decreto n.? 5.204, de
+18 de marco de 2002, sujeita a atualizac?o monetaria, juros e demais
+encargos previstos em lei ou contrato, a partir dos TERMOs iniciais
+especificados. E, para constar, firmo o presente, que vai devidamente
+datado e assinado pelo(a) Coordenador(a) de Controle da Divida Ativa
+e homologado pelo(a) Diretor(a) de Arrecadac?o e Informac?es Fazendarias
+da Secretaria Executiva da Fazenda.
+Belem(PA), 18 de Setembro de 2017
+</texto>
+  <arquivo/>
+</cda>
